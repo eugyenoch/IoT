@@ -1,0 +1,75 @@
+DAY 2
+Principles of Robotics
+
+Agents - An agent is anything that is placed on an envionment with the aim of interaction. Comprises of sensors(anything that can take input), actuators, micro-controllers; and the firmware
+
+Agent environment - An environment where an agent is placed and several factors affect an agent in an environment such as temperature, motion and so on.
+
+Different ways of receiving input, WAN, Bluetooth, etc
+
+In Arduino, we use pinMode() to configure th pin to behave either as an INPUT or OUTPUT device
+e.g pinMode(pin,mode)
+
+STEPS
+Declare it as a variable local or global
+State the mode under the void setup(){}
+Give if functionality under the void loop(){}
+
+corrective maintenance
+preventive maintenance
+predictive maintenance
+
+UNDERSTAND DATA STRUCTURES AND ALGORITHM
+
+
+DAY 3
+Technologies in vogue in this fourth industrial revolution
+1. AI
+2. Cloud computing
+3. Robotics
+4. Extended realities(AR & VR)
+5. 3D Printing
+6. Blockchain technology
+
+Books to read:- 1. Outliers by Malcolm Gladwell
+				2. 15 Invaluable Laws of Growth by John C. Mawell
+
+
+MIND:
+1. The places you go to
+2. The books you read
+3. The friends you keep
+
+Check for problems that are : Popular, Growing, Urgent, Mandatory, 1M potential users.
+
+DAY 4
+Protus is a simulation software for circuit board designs. Also a breadboard circuit can be used.
+In a capacitor and LED, the longer leg is the +ve and the shorter leg is the -ve, though, it can come with equal legs.
+
+The higher the resistance the higher the voltage and the lower the current V=IR
+
+A potentiometer is a variable resistor. It has several resistors packed in them.
+
+Supplied voltage(Vs) - Required voltage(Vr) / Required Current(Ir)
+
+Color Codes
+Blue - 0
+Brown - 1
+Red - 2
+Orange - 3
+Yellow - 4
+Green - 5
+Blue - 6
+Violet - 7
+Grey - 8
+Wh - 9
+
+Tolerance colors
+Tolerance is used to check the voltage gain or loss in a circuit
+Gold - 5%
+Silver - 10%
+Any other color for tolerance - 20%
+
+software to use is fritzing at fritzing.org
+
+isheda.com for arduino kits andcomponents-
